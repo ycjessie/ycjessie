@@ -6,8 +6,8 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
  
 
  - 🌱 I’m currently learning Python, PySpark, Microsoft Faberic, Power BI
- 😄 Pronouns: She/Her
- ⚡ Fun fact: I dance Salsa and Merengue
+ - 😄 Pronouns: She/Her
+ - ⚡ Fun fact: I dance Salsa and Merengue
 
 <!--
 **ycjessie/ycjessie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
