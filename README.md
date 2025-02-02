@@ -5,7 +5,7 @@ By using my technical and leadership skills, I ensure my work aligns with compan
 Outside of work,I find joy outdoor activities close to nature. Spending quality time with family and friends is also important to me. These activities help me recharge and maintain balance in my life. They give me a fresh perspective and energy to face professional challenges. 
  
 
- 🌱 I’m currently learning Python, PySpark, Microsoft Faberic, Power BI
+ - 🌱 I’m currently learning Python, PySpark, Microsoft Faberic, Power BI
  😄 Pronouns: She/Her
  ⚡ Fun fact: I dance Salsa and Merengue
 
