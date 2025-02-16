@@ -31,10 +31,10 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
 - **Award:** CASE District II Rising Star Award - 2017 
   - [CASE Rising Star Award](https://www.case.org/districts/district-vii-west/rising-star-award#:~:text=The%20criteria%20for%20nomination%20is,commitment%20to%20the%20advancement%20profession/)
 The award honors individuals who have achieved early success, showing their potential to be future leaders in University Advancement Services. 
-  - :trophy: Jessie joined Villanova's Advancement Office in 2011 as a Business Intelligence Analyst and became a key member of the Cognos Implementation Team. She was promoted to Senior Data Analyst in 2015 as she demonstrated  leadership qualities and a consistently high level of professional achievement.
+  - :trophy: I received this award in 2017 for my early achievements and potential as a future leader in the advancement profession. The award recognized my demonstrated leadership qualities and high level of professional achievement.
 - **Recognition:** Work Process Improvement Award - 2016
   - [Annual Recognition & Excellence Awards](https://www1.villanova.edu/university/staff-council/staff-awards.html#:~:text=The%20Work%20Process%20Improvement%20Award,improvements%20and%2For%20work%20redesigns.) The Work Process Improvement Award honors individuals or teams whose suggestions lead to significant enhancements in work processes. 
-  - :trophy: Jessie and the Endowment Team created and enhanced the Endowment and Stewardship Dashboard, improving service quality and operational efficiency among college and university advancement administrators by streamlining the screening of prospects, gifts, and beneficiaries into one comprehensive view.
+  - :trophy: The Endowment Team and I developed the Endowment and Stewardship Dashboard, enhancing service quality and operational efficiency for colleges and university advancement administrators by consolidating the screening of prospects, gifts, and beneficiaries into one comprehensive view.
 
 
 
