@@ -20,6 +20,17 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
     - **Data Analytics and Visualization**: Work with teams on projects that leverage Power BI to create insightful dashboards and reports. These projects also utilize AWS services and Microsoft Fabric to integrate data from multiple sources and deliver impactful visualizations for data-driven decision-making.
     - **Career Growth in Data & Tech**: Partner with professionals or groups to share knowledge, mentor others, or participate in programs focused on closing skill gaps and advancing careers in the data and technology field.
 
+## Awards & Recognitions
+
+- **Award Name:** CASE District II Rising Star Award - [2017] 
+  - :trophy: Jessie joined Villanova's Advancement Office in 2011 as a Business Intelligence Analyst and became a key member of the Cognos Implementation Team. She was promoted to Senior Data Analyst in 2015 for her leadership and outstanding performance.
+  - *Link*: [CASE Website](https://www.case.org/districts/district-vii-west/rising-star-award#:~:text=The%20criteria%20for%20nomination%20is,commitment%20to%20the%20advancement%20profession/)
+- **Recognition Name:** Work Process Improvement Award - [2016]
+  - :trophy: The Work Process Improvement Award honors individuals or teams whose suggestions lead to significant enhancements in work processes. Jessie and Bill improved Endowment and Stewardship Dashboard, which enhances service quality and operational efficiency among college and university advancement administrators by streamlining the screening of donors, funds, and award recipients into one comprehensive view.
+- *Link*: [Annual Recognition & Excellence Awards](https://www1.villanova.edu/university/staff-council/staff-awards.html#:~:text=The%20Work%20Process%20Improvement%20Award,improvements%20and%2For%20work%20redesigns.)
+
+
+
 <!--
 **ycjessie/ycjessie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
