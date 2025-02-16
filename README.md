@@ -23,9 +23,9 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
 ## Volunteer Experience
 - I have participated in initiatives that align with my professional interests and values. These experiences have strengthened my communication and leadership skills, enabling me to engage diverse groups and promote collaboration.
   - **Business Resource Groups:** 
-    - Volunteer through the Talent Ambassador program and  Business Resource Groups to foster a supportive environment that encourages resilience and celebrates achievements. Example, [Linkedin Event](https://www.linkedin.com/posts/samanthaomara_for-me-one-of-my-favorite-ways-to-celebrate-activity-7045117024884125696-d-dE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIAGaYB1UvkiYDnTmtjvpk2DtFfLxt7X9k) 
+    - I volunteer through the Talent Ambassador program and  Business Resource Groups to foster a supportive environment that encourages resilience and celebrates achievements. Example, [Linkedin Event](https://www.linkedin.com/posts/samanthaomara_for-me-one-of-my-favorite-ways-to-celebrate-activity-7045117024884125696-d-dE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIAGaYB1UvkiYDnTmtjvpk2DtFfLxt7X9k) 
   - **Peer Guide Community:** 
-    - In my volunteer work, I was a moderator several times with senior leaders to foster community and knowledge sharing.
+    - I facilitate discussions between senior leaders and new members to build connections, share insights into the organization's direction, and encourage valuable knowledge exchange.
 ## Awards & Recognitions
 
 - **Award:** CASE District II Rising Star Award - 2017 
