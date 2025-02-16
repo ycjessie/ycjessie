@@ -22,7 +22,8 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
 
 ## Awards & Recognitions
 
-- **Award:** CASE District II Rising Star Award - 2017 [CASE Rising Star Award](https://www.case.org/districts/district-vii-west/rising-star-award#:~:text=The%20criteria%20for%20nomination%20is,commitment%20to%20the%20advancement%20profession/)
+- **Award:** CASE District II Rising Star Award - 2017 
+  - [CASE Rising Star Award](https://www.case.org/districts/district-vii-west/rising-star-award#:~:text=The%20criteria%20for%20nomination%20is,commitment%20to%20the%20advancement%20profession/)
 The award honors individuals who have achieved early success, showing their potential to be future leaders in University Advancement Services. 
   - :trophy: Jessie joined Villanova's Advancement Office in 2011 as a Business Intelligence Analyst and became a key member of the Cognos Implementation Team. She was promoted to Senior Data Analyst in 2015 as she demonstrated  leadership qualities and a consistently high level of professional achievement.
 - **Recognition:** Work Process Improvement Award - 2016
