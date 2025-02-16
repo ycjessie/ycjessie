@@ -21,10 +21,10 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
     - **Career Growth in Data & Tech**: Partner with professionals or groups to share knowledge, mentor others, or participate in programs focused on closing skill gaps and advancing careers in the data and technology field.
 
 ## Volunteer Experience
+- I have participated in initiatives that align with my professional interests and values. In my volunteer work, I was a moderator several times with senior leaders to foster community and knowledge sharing. These experiences have strengthened my communication and leadership skills, enabling me to engage diverse groups and promote collaboration.
 - **Business Resource Groups:** 
-  - [Linkedin Event](https://www.linkedin.com/posts/samanthaomara_for-me-one-of-my-favorite-ways-to-celebrate-activity-7045117024884125696-d-dE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIAGaYB1UvkiYDnTmtjvpk2DtFfLxt7X9k)
-  - Volunteer through the Talent Ambassador program and  Business Resource Groups to foster a supportive environment that encourages resilience and celebrates achievements. 
-
+  - [Linkedin Event](https://www.linkedin.com/posts/samanthaomara_for-me-one-of-my-favorite-ways-to-celebrate-activity-7045117024884125696-d-dE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIAGaYB1UvkiYDnTmtjvpk2DtFfLxt7X9k) Volunteer through the Talent Ambassador program and  Business Resource Groups to foster a supportive environment that encourages resilience and celebrates achievements. 
+- **Peer Guide Community:** 
 
 ## Awards & Recognitions
 
