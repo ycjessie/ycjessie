@@ -5,10 +5,6 @@
 I’m a Lead Data Engineer, I build and enhance data pipelines and solutions on AWS Cloud. Python, SQL, and SparkSQL are my go to tools, I find rewarding solving complex data challenges. My analytical skills and attention to detail  help to  create solutions that enable better decision-making for business users and streamline applications. Aside from my programming duties, I enjoy working in teams, mentoring others engineers and sharing insights. Now in my third year as a Talent Ambassador, I support internal colleagues and help external professionals, fostering a culture of learning. 
 By using my technical and leadership skills, I ensure my work aligns with company goals, contributing to growth and transformation.
 Outside of work,I find joy outdoor activities close to nature. Spending quality time with family and friends is also important to me. These activities help me recharge and maintain balance in my life. They give me a fresh perspective and energy to face professional challenges. 
- - ⚡ Fun fact: 
-   - I dance Salsa and Merengue.
-   - I am fluent in three languages: Mandarin, Taiwanese, and English.
-
 
  - 🔭 I'm currently working on
     - **Data Validation**: Building a robust framework to ensure data consistency across medallion layers after the ETL process. This project utilizes AWS services, adheres to best coding practices with Python and PySpark, and employs Power BI for reporting and visualization.
@@ -21,7 +17,10 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
  - 👯 I’m looking to collaborate on
     - **Data Analytics and Visualization**: Work with teams on projects that leverage Power BI to create insightful dashboards and reports. These projects also utilize AWS services and Microsoft Fabric to integrate data from multiple sources and deliver impactful visualizations for data-driven decision-making.
     - **Career Growth in Data & Tech**: Partner with professionals or groups to share knowledge, mentor others, or participate in programs focused on closing skill gaps and advancing careers in the data and technology field.
-
+ - ⚡ Fun fact: 
+   - I dance Salsa and Merengue.
+   - I am fluent in three languages: Mandarin, Taiwanese, and English.
+   
 ## Volunteer Experience
 - I have participated in initiatives that align with my professional interests and values. These experiences have strengthened my communication and leadership skills, enabling me to engage diverse groups and promote collaboration.
   - **Business Resource Groups:** 
