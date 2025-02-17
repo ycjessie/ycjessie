@@ -25,7 +25,7 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
   - **Business Resource Groups:** 
     - I volunteer through the Talent Ambassador program and  Business Resource Groups to foster a supportive environment that encourages resilience and celebrates achievements. Example, [Linkedin Event](https://www.linkedin.com/posts/samanthaomara_for-me-one-of-my-favorite-ways-to-celebrate-activity-7045117024884125696-d-dE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIAGaYB1UvkiYDnTmtjvpk2DtFfLxt7X9k) 
   - **Peer Guide Community:** 
-    - I facilitate discussions between senior leaders and new members to build connections, share insights into the organization's direction, and encourage valuable knowledge exchange.
+    - I volunteer to lead discussions with senior leaders to build connections within the community of new hires, sharing insights into the organization's direction and encouraging valuable knowledge exchange.
 ## Awards & Recognitions
 
 - **Award:** CASE District II Rising Star Award - 2017 
