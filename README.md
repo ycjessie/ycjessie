@@ -6,8 +6,8 @@ I’m a Lead Data Engineer, I build and enhance data pipelines and solutions on 
 By using my technical and leadership skills, I ensure my work aligns with company goals, contributing to growth and transformation.
 Outside of work,I find joy outdoor activities close to nature. Spending quality time with family and friends is also important to me. These activities help me recharge and maintain balance in my life. They give me a fresh perspective and energy to face professional challenges. 
  - ⚡ Fun fact: 
-       - I dance Salsa and Merengue.
-       - I am fluent in three languages: Mandarin, Taiwanese, and English.
+   - I dance Salsa and Merengue.
+   - I am fluent in three languages: Mandarin, Taiwanese, and English.
 
 
  - 🔭 I'm currently working on
