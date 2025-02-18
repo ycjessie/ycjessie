@@ -20,7 +20,7 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
  - ⚡ Fun fact: 
    - I dance Salsa and Merengue.
    - I am fluent in three languages: Mandarin, Taiwanese, and English.
-   
+
 ## Volunteer Experience
 - I have participated in initiatives that align with my professional interests and values. These experiences have strengthened my communication and leadership skills, enabling me to engage diverse groups and promote collaboration.
   - **Business Resource Groups:** 
@@ -29,14 +29,12 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
     - I volunteer to lead discussions with senior leaders to build connections within the community of new hires, sharing insights into the organization's direction and encouraging valuable knowledge exchange.
 ## Awards & Recognitions
 
-- **Award:** CASE District II Rising Star Award - 2017 
-  - [CASE Rising Star Award](https://www.case.org/districts/district-vii-west/rising-star-award#:~:text=The%20criteria%20for%20nomination%20is,commitment%20to%20the%20advancement%20profession/)
-The award honors individuals who have achieved early success, showing their potential to be future leaders in University Advancement Services. 
+- **Award:** CASE District II [CASERising Star Award](https://www.case.org/districts/district-vii-west/rising-star-award#:~:text=The%20criteria%20for%20nomination%20is,commitment%20to%20the%20advancement%20profession/) 
+  - It honors individuals who have achieved early success, showing their potential to be future leaders in University Advancement Services. 
   - :trophy: I received this award in 2017 for my early achievements and potential as a future leader in the advancement profession. The award recognized my demonstrated leadership qualities and high level of professional achievement.
-- **Recognition:** Work Process Improvement Award - 2016
-  - [Annual Recognition & Excellence Awards](https://www1.villanova.edu/university/staff-council/staff-awards.html#:~:text=The%20Work%20Process%20Improvement%20Award,improvements%20and%2For%20work%20redesigns.) The Work Process Improvement Award honors individuals or teams whose suggestions lead to significant enhancements in work processes. 
-  - :trophy: The Endowment Team and I developed the Endowment and Stewardship Dashboard, enhancing service quality and operational efficiency for colleges and university advancement administrators by consolidating the screening of prospects, gifts, and beneficiaries into one comprehensive view.
-
+- **Recognition:** [Annual Recognition & Excellence Awards](https://www1.villanova.edu/university/staff-council/staff-awards.html#:~:text=The%20Work%20Process%20Improvement%20Award,improvements%20and%2For%20work%20redesigns.) Work Process Improvement
+  -  It honors individuals or teams whose suggestions lead to significant enhancements in work processes. 
+  - :trophy: In 2016, The Endowment Team and I were awarded for our work on the Endowment and Stewardship Dashboard. This project greatly improved service quality and operational efficiency for college and university advancement administrators. We achieved this by consolidating the screening of prospects, gifts, and beneficiaries into one comprehensive view.
 
 
 <!--
