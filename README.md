@@ -15,8 +15,8 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
     - Strengthening expertise in Power BI for business intelligence and reporting
     - Expanding knowledge of various AWS services to build scalable and efficient solutions
  - 👯 I’m looking to collaborate on
-    - **Data Analytics and Visualization**: Work with teams on projects that leverage Power BI to create insightful dashboards and reports. These projects also utilize AWS services and Microsoft Fabric to integrate data from multiple sources and deliver impactful visualizations for data-driven decision-making.
-    - **Career Growth in Data & Tech**: Partner with professionals or groups to share knowledge, mentor others, or participate in programs focused on closing skill gaps and advancing careers in the data and technology field.
+    - **Data Analytics and Visualization**: Work with teams on projects that leverage Power BI to create insightful dashboards and reports. These projects also utilize AWS services and Microsoft Fabric to integrate data from multiple sources and deliver impactful visualizations for data-driven decision-making
+    - **Career Growth in Data & Tech**: Partner with professionals or groups to share knowledge, mentor others, or participate in programs focused on closing skill gaps and advancing careers in the data and technology field
  - ⚡ Fun fact: 
    - I dance Salsa and Merengue.
    - I am fluent in three languages: Mandarin, Taiwanese, and English.
