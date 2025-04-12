@@ -24,7 +24,7 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
 ## Volunteer Experience
 - I have participated in initiatives that align with my professional interests and values. These experiences have strengthened my communication and leadership skills, enabling me to engage diverse groups and promote collaboration.
   - **HISPA Role Model Program:** 
-    - I volunteer to empower students throgh my stories and mentorship, connecting them with my background and experience, forstering a sense of possibility and encouraging academic and career success.
+    - I volunteer to give presentations that empower students through my stories, fostering a sense of possibility and encouraging their academic and career success.
   - **Business Resource Groups:** 
     - I volunteer through the Talent Ambassador program and Business Resource Groups to create a supportive environment that promotes resilience and celebrates achievements, such as the [Linkedin Event](https://www.linkedin.com/posts/samanthaomara_for-me-one-of-my-favorite-ways-to-celebrate-activity-7045117024884125696-d-dE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIAGaYB1UvkiYDnTmtjvpk2DtFfLxt7X9k) 
   - **Peer Guide Community:** 
