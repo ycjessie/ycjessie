@@ -10,10 +10,10 @@ Outside of work,I find joy outdoor activities close to nature. Spending quality 
     - **Data Validation**: Building a robust framework to ensure data consistency across medallion layers after the ETL process. This project utilizes AWS services, adheres to best coding practices with Python and PySpark, and employs Power BI for reporting and visualization.
     - **Career Development Program**: Engaging in a 12-week Group Coaching Program with a Data & Tech Career Coach to identify potential skill gaps, align with evolving industry expectations, and strategically enhance my capabilities for continuous career growth.
  - 🌱 I’m currently learning 
-    - Advanced Python programming and PySpark for big data processing.
-    - Exploring Microsoft Fabric for data integration and analytics.
-    - Strengthening expertise in Power BI for business intelligence and reporting.
-    - Expanding knowledge of various AWS services to build scalable and efficient solutions.
+    - Advanced Python programming and PySpark for big data processing
+    - Exploring Microsoft Fabric for data integration and analytics
+    - Strengthening expertise in Power BI for business intelligence and reporting
+    - Expanding knowledge of various AWS services to build scalable and efficient solutions
  - 👯 I’m looking to collaborate on
     - **Data Analytics and Visualization**: Work with teams on projects that leverage Power BI to create insightful dashboards and reports. These projects also utilize AWS services and Microsoft Fabric to integrate data from multiple sources and deliver impactful visualizations for data-driven decision-making.
     - **Career Growth in Data & Tech**: Partner with professionals or groups to share knowledge, mentor others, or participate in programs focused on closing skill gaps and advancing careers in the data and technology field.
